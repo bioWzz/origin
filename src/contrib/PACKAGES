@@ -1,0 +1,9 @@
+Package: pulseTD
+Version: 0.1.0
+Depends: R (>= 3.4.0)
+Imports: AnnotationDbi,SummarizedExperiment,Rsamtools, Biobase,S4Vectors, methods,parallel,GenomicFeatures,
+            ggplot2, grid, GenomicAlignments
+Suggests: knitr, rmarkdown, TxDb.Hsapiens.UCSC.hg19.knownGene
+License: GPL-2
+MD5sum: 306ef0a129ec93221811403b040067ce
+NeedsCompilation: no
